@@ -6,9 +6,7 @@
     "dev": "vite",
     "build": "vite build"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Connor Adams",
   "devDependencies": {
     "autoprefixer": "^10.4.0",
     "postcss": "^8.4.4",
